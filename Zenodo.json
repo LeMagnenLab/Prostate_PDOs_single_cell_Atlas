@@ -8,7 +8,7 @@
     "record": "public",
     "status": "open"
   },
-  "created": "2025-05-30T14:18:28.563360+00:00",
+  "created": "2025-08-17T21:25:56.591944+00:00",
   "custom_fields": {
     "code:codeRepository": "https://github.com/LeMagnenLab",
     "code:developmentStatus": {
@@ -37,24 +37,24 @@
     "status": "P"
   },
   "files": {
-    "count": 63,
+    "count": 91,
     "enabled": true,
     "entries": {
       "Atlas_PCa_PDOs_barcodes.tsv": {
         "access": {
           "hidden": false
         },
-        "checksum": "md5:6a6b3eb6ceaf6a34e2526a085a061778",
+        "checksum": "md5:c045b37b307bcbf8f16aeb150729944d",
         "ext": "tsv",
-        "id": "264f1d21-fdd6-4d7c-8559-d2eaf300aee2",
+        "id": "9299c2e5-d843-4569-a0df-7c28840ce9ad",
         "key": "Atlas_PCa_PDOs_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/Atlas_PCa_PDOs_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/Atlas_PCa_PDOs_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/Atlas_PCa_PDOs_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Atlas_PCa_PDOs_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
-        "size": 3575522,
+        "size": 3651941,
         "storage_class": "L"
       },
       "Atlas_PCa_PDOs_features.tsv": {
@@ -63,11 +63,11 @@
         },
         "checksum": "md5:5b44147e6b66534237c5b8ba517e4b42",
         "ext": "tsv",
-        "id": "4b34d5d1-5b8b-436a-b483-6c4d12c1d6fc",
+        "id": "3df571bd-8f34-4d60-a939-4e1c198bcf2b",
         "key": "Atlas_PCa_PDOs_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/Atlas_PCa_PDOs_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/Atlas_PCa_PDOs_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/Atlas_PCa_PDOs_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Atlas_PCa_PDOs_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -78,102 +78,153 @@
         "access": {
           "hidden": false
         },
-        "checksum": "md5:069d89e65080d5b3f1d8b040e96b1c0f",
+        "checksum": "md5:8e61a462e224f59d96e405388362e485",
         "ext": "mtx",
-        "id": "f623d46f-591e-4753-bab9-2b067b65ac5d",
+        "id": "387249af-8b6a-40d6-ac6e-a021b102242e",
         "key": "Atlas_PCa_PDOs_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/Atlas_PCa_PDOs_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/Atlas_PCa_PDOs_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/Atlas_PCa_PDOs_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Atlas_PCa_PDOs_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
-        "size": 3818635420,
+        "size": 3896207961,
         "storage_class": "L"
       },
       "Atlas_PCa_PDOs_metadata.csv": {
         "access": {
           "hidden": false
         },
-        "checksum": "md5:d424e31fd934ec75351c2f72e9a44384",
+        "checksum": "md5:1e6c16d7d1b71312d9b18f98af87a340",
         "ext": "csv",
-        "id": "a35b5d39-a4e9-4b90-b826-a60db0415293",
+        "id": "c082bb3e-a734-41c8-a82f-efe4f6bc677f",
         "key": "Atlas_PCa_PDOs_metadata.csv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/Atlas_PCa_PDOs_metadata.csv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/Atlas_PCa_PDOs_metadata.csv"
+          "content": "https://zenodo.org/api/records/16891262/files/Atlas_PCa_PDOs_metadata.csv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Atlas_PCa_PDOs_metadata.csv"
         },
         "metadata": {},
         "mimetype": "text/csv",
-        "size": 19683511,
+        "size": 25336647,
         "storage_class": "L"
       },
-      "Dolgos_2024_early_passage_PDOs_barcodes.tsv": {
+      "Chen_Tissue_barcodes.tsv": {
         "access": {
           "hidden": false
         },
-        "checksum": "md5:e814269393e3729b66b7b5a020824359",
+        "checksum": "md5:edb14e1ce5ef7e3d6c0d071e6873865c",
         "ext": "tsv",
-        "id": "7b9323dd-fe39-40ce-82dc-468d1ab9549d",
-        "key": "Dolgos_2024_early_passage_PDOs_barcodes.tsv",
+        "id": "15e01476-5e97-4c7e-aac4-5c3ea04b7ee4",
+        "key": "Chen_Tissue_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/Dolgos_2024_early_passage_PDOs_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/Dolgos_2024_early_passage_PDOs_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/Chen_Tissue_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Chen_Tissue_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
-        "size": 1495627,
+        "size": 1101856,
         "storage_class": "L"
       },
-      "Dolgos_2024_early_passage_PDOs_features.tsv": {
+      "Chen_Tissue_features.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:9973422d8b95cbbec651db9434f878e3",
+        "ext": "tsv",
+        "id": "2819f578-8848-420b-aca9-afd8531df715",
+        "key": "Chen_Tissue_features.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Chen_Tissue_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Chen_Tissue_features.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 160851,
+        "storage_class": "L"
+      },
+      "Chen_Tissue_matrix.mtx": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:988323b95afb0f6fa2cc5c381ce5e3ea",
+        "ext": "mtx",
+        "id": "e6461ed3-7813-4180-a802-6dd3cb44212a",
+        "key": "Chen_Tissue_matrix.mtx",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Chen_Tissue_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Chen_Tissue_matrix.mtx"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 957714085,
+        "storage_class": "L"
+      },
+      "Chen_Tissue_metadata.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:5489489f66474a22f35f9095bb0d0eb3",
+        "ext": "csv",
+        "id": "0f2227fc-ad7c-4a0b-9748-d7a64df66340",
+        "key": "Chen_Tissue_metadata.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Chen_Tissue_metadata.csv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Chen_Tissue_metadata.csv"
+        },
+        "metadata": {},
+        "mimetype": "text/csv",
+        "size": 10839704,
+        "storage_class": "L"
+      },
+      "Dolgos_Early_Passage_PDOs_features.tsv": {
         "access": {
           "hidden": false
         },
         "checksum": "md5:854f910eedb0285ed96922bf78441757",
         "ext": "tsv",
-        "id": "79f6646e-b3d6-4c32-8830-cbcb0c01d701",
-        "key": "Dolgos_2024_early_passage_PDOs_features.tsv",
+        "id": "888b5c4b-6341-426e-bba3-9690a423bec1",
+        "key": "Dolgos_Early_Passage_PDOs_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/Dolgos_2024_early_passage_PDOs_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/Dolgos_2024_early_passage_PDOs_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/Dolgos_Early_Passage_PDOs_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Dolgos_Early_Passage_PDOs_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
         "size": 115044,
         "storage_class": "L"
       },
-      "Dolgos_2024_early_passage_PDOs_matrix.mtx": {
+      "Dolgos_Early_Passage_PDOs_matrix.mtx": {
         "access": {
           "hidden": false
         },
-        "checksum": "md5:b703415c8374001feff8086a6ebc95d4",
+        "checksum": "md5:b0c5e3d3a602ef5523699cdc73521f38",
         "ext": "mtx",
-        "id": "009e52b4-55bd-4089-9fa6-0d319c2ee158",
-        "key": "Dolgos_2024_early_passage_PDOs_matrix.mtx",
+        "id": "1aac1b67-b0a7-42e6-902f-2f97d7960ed6",
+        "key": "Dolgos_Early_Passage_PDOs_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/Dolgos_2024_early_passage_PDOs_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/Dolgos_2024_early_passage_PDOs_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/Dolgos_Early_Passage_PDOs_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Dolgos_Early_Passage_PDOs_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
-        "size": 1748785282,
+        "size": 1834749309,
         "storage_class": "L"
       },
-      "Dolgos_2024_early_passage_PDOs_metadata.csv": {
+      "Dolgos_Early_Passage_PDOs_metadata.csv": {
         "access": {
           "hidden": false
         },
-        "checksum": "md5:6f98f9eb6b973b9618f5fcd9d9442846",
+        "checksum": "md5:34260fb1825d7d2bc46178601433edaa",
         "ext": "csv",
-        "id": "0e404f0c-5acb-4f4c-a4e2-f8077a6caff2",
-        "key": "Dolgos_2024_early_passage_PDOs_metadata.csv",
+        "id": "7e0eaaf8-7713-486d-85f4-566b5b5c2d48",
+        "key": "Dolgos_Early_Passage_PDOs_metadata.csv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/Dolgos_2024_early_passage_PDOs_metadata.csv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/Dolgos_2024_early_passage_PDOs_metadata.csv"
+          "content": "https://zenodo.org/api/records/16891262/files/Dolgos_Early_Passage_PDOs_metadata.csv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Dolgos_Early_Passage_PDOs_metadata.csv"
         },
         "metadata": {},
         "mimetype": "text/csv",
-        "size": 18735488,
+        "size": 8367128,
         "storage_class": "L"
       },
       "Dolgos_Matched_Tissue_PDOs_barcodes.tsv": {
@@ -182,11 +233,11 @@
         },
         "checksum": "md5:43ef765145c488dcd938712a858a5838",
         "ext": "tsv",
-        "id": "466cab9d-16b3-437a-a6c5-ed854e728a82",
+        "id": "2e3a6f81-008e-468c-8cd8-8d90a95dbe2e",
         "key": "Dolgos_Matched_Tissue_PDOs_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/Dolgos_Matched_Tissue_PDOs_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/Dolgos_Matched_Tissue_PDOs_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/Dolgos_Matched_Tissue_PDOs_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Dolgos_Matched_Tissue_PDOs_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -199,11 +250,11 @@
         },
         "checksum": "md5:854f910eedb0285ed96922bf78441757",
         "ext": "tsv",
-        "id": "919d3f96-94bb-4a88-8e6b-fcd6db27807e",
+        "id": "8afd44e8-1069-4081-a66c-487b6292da36",
         "key": "Dolgos_Matched_Tissue_PDOs_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/Dolgos_Matched_Tissue_PDOs_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/Dolgos_Matched_Tissue_PDOs_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/Dolgos_Matched_Tissue_PDOs_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Dolgos_Matched_Tissue_PDOs_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -216,11 +267,11 @@
         },
         "checksum": "md5:24ddb068e0afc31879299d8df423e856",
         "ext": "mtx",
-        "id": "3db92412-6cc1-4efc-b8d2-977be48a3a1c",
+        "id": "834f7327-ec48-4895-9294-e59b72cf9d38",
         "key": "Dolgos_Matched_Tissue_PDOs_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/Dolgos_Matched_Tissue_PDOs_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/Dolgos_Matched_Tissue_PDOs_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/Dolgos_Matched_Tissue_PDOs_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Dolgos_Matched_Tissue_PDOs_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
@@ -233,15 +284,185 @@
         },
         "checksum": "md5:4749d4c21df0c6cddb9c82af5e5df3e1",
         "ext": "csv",
-        "id": "01a9dc53-6887-46db-916a-41515917fa87",
+        "id": "3bf7727b-c7b7-4cac-962f-fb38535dc3c7",
         "key": "Dolgos_Matched_Tissue_PDOs_metadata.csv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/Dolgos_Matched_Tissue_PDOs_metadata.csv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/Dolgos_Matched_Tissue_PDOs_metadata.csv"
+          "content": "https://zenodo.org/api/records/16891262/files/Dolgos_Matched_Tissue_PDOs_metadata.csv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Dolgos_Matched_Tissue_PDOs_metadata.csv"
         },
         "metadata": {},
         "mimetype": "text/csv",
         "size": 6468460,
+        "storage_class": "L"
+      },
+      "Hirz_barcodes.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:52bbf3cfe9dee691be65fe76cecee5c3",
+        "ext": "tsv",
+        "id": "239a4e01-dff5-465c-acc5-ed1e03277387",
+        "key": "Hirz_barcodes.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Hirz_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Hirz_barcodes.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 2214313,
+        "storage_class": "L"
+      },
+      "Hirz_features.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6b35a1b0557d7edf4c92acd649c333d3",
+        "ext": "tsv",
+        "id": "db01a9a4-3771-4307-abd3-d8ece2788c64",
+        "key": "Hirz_features.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Hirz_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Hirz_features.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 293240,
+        "storage_class": "L"
+      },
+      "Hirz_matrix.mtx": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:b154854a049a5a997175396a0c6e0312",
+        "ext": "mtx",
+        "id": "79815caa-bb78-46be-8f15-27dbc545c030",
+        "key": "Hirz_matrix.mtx",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Hirz_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Hirz_matrix.mtx"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 985148043,
+        "storage_class": "L"
+      },
+      "Hirz_metadata.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:44eb90bb8b5d3ba620d4917704d05aed",
+        "ext": "csv",
+        "id": "f54130dd-1a3f-4889-8c36-40bfd9bca9ef",
+        "key": "Hirz_metadata.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Hirz_metadata.csv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Hirz_metadata.csv"
+        },
+        "metadata": {},
+        "mimetype": "text/csv",
+        "size": 7909166,
+        "storage_class": "L"
+      },
+      "Huang_2023_barcodes.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:9563ddae995603f8fb8b8ecdfb66959f",
+        "ext": "tsv",
+        "id": "aaa89b1b-290e-4b3b-99c6-fecd2991191b",
+        "key": "Huang_2023_barcodes.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Huang_2023_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Huang_2023_barcodes.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 487578,
+        "storage_class": "L"
+      },
+      "Huang_2023_features.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:022606959c8dc5889add7ba4c823ae0f",
+        "ext": "tsv",
+        "id": "315f369c-935d-4fbf-acab-214fa1b7d878",
+        "key": "Huang_2023_features.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Huang_2023_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Huang_2023_features.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 85421,
+        "storage_class": "L"
+      },
+      "Huang_2023_matrix.mtx": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d795b67cdec82ea5d0ecebeb6e32f828",
+        "ext": "mtx",
+        "id": "c993d92d-98be-4208-b3e7-075d0c6db774",
+        "key": "Huang_2023_matrix.mtx",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Huang_2023_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Huang_2023_matrix.mtx"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 346593646,
+        "storage_class": "L"
+      },
+      "Huang_2023_metadata.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:70b7dbbdad6bf95689e62d6831fe44cf",
+        "ext": "csv",
+        "id": "fd8f9ce1-a987-490c-b34a-e6c963b4954b",
+        "key": "Huang_2023_metadata.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Huang_2023_metadata.csv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Huang_2023_metadata.csv"
+        },
+        "metadata": {},
+        "mimetype": "text/csv",
+        "size": 1457325,
+        "storage_class": "L"
+      },
+      "McCray_PDOs_barcodes.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:ecdd49a8b299078951514d4f04a33419",
+        "ext": "tsv",
+        "id": "df3e33d0-5920-4e9c-8963-c87232511b92",
+        "key": "McCray_PDOs_barcodes.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/McCray_PDOs_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/McCray_PDOs_barcodes.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 196480,
+        "storage_class": "L"
+      },
+      "McCray_PDOs_features.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f00f799339fc7afba2cbaf95fa223ab3",
+        "ext": "tsv",
+        "id": "1ab0ddf6-c347-4af6-9eba-c95b9fa05215",
+        "key": "McCray_PDOs_features.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/McCray_PDOs_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/McCray_PDOs_features.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 158340,
         "storage_class": "L"
       },
       "McCray_PDOs_matrix.mtx": {
@@ -250,45 +471,45 @@
         },
         "checksum": "md5:dac673b0e49578593a8034ce94730c3a",
         "ext": "mtx",
-        "id": "e176d5f9-6f31-40d4-b241-b66d5ca18fff",
+        "id": "fbcb3fb4-f08a-4090-baff-bf6e123cfef1",
         "key": "McCray_PDOs_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/McCray_PDOs_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/McCray_PDOs_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/McCray_PDOs_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/McCray_PDOs_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
         "size": 233549206,
         "storage_class": "L"
       },
-      "SR06_sample1_barcodes.tsv": {
+      "McCray_PDOs_metadata.csv": {
         "access": {
           "hidden": false
         },
-        "checksum": "md5:7f6fe7809c4d5725f5f47b66260de67b",
-        "ext": "tsv",
-        "id": "47ab8691-4e82-411f-9ac3-f9cfe2457451",
-        "key": "SR06_sample1_barcodes.tsv",
+        "checksum": "md5:7cd39f618a971f8bb0b82a290d17131d",
+        "ext": "csv",
+        "id": "bf0da576-9bd3-4ca2-9847-4b1c6f3c9ebf",
+        "key": "McCray_PDOs_metadata.csv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR06_sample1_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR06_sample1_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/McCray_PDOs_metadata.csv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/McCray_PDOs_metadata.csv"
         },
         "metadata": {},
-        "mimetype": "text/tab-separated-values",
-        "size": 124780,
+        "mimetype": "text/csv",
+        "size": 498392,
         "storage_class": "L"
       },
-      "SR06_sample1_features.tsv": {
+      "SR06_sample1_genes.tsv": {
         "access": {
           "hidden": false
         },
         "checksum": "md5:23a85a7f8254ff6c48cacc0c2b0f480e",
         "ext": "tsv",
-        "id": "b7dcbbb3-d8d7-44fe-9980-057f9d76654b",
-        "key": "SR06_sample1_features.tsv",
+        "id": "ba775547-3475-4125-bc7d-ef3e8fa09d62",
+        "key": "SR06_sample1_genes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR06_sample1_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR06_sample1_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR06_sample1_genes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR06_sample1_genes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -301,15 +522,32 @@
         },
         "checksum": "md5:d45563618054a9f3c54264f77b49aef4",
         "ext": "mtx",
-        "id": "54dfd480-3988-4929-8824-1bd4c2ce7e86",
+        "id": "aa9d4e3a-2e78-4847-9366-c38d213ab370",
         "key": "SR06_sample1_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR06_sample1_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR06_sample1_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR06_sample1_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR06_sample1_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
         "size": 362485892,
+        "storage_class": "L"
+      },
+      "SR06_sample1barcodes.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7f6fe7809c4d5725f5f47b66260de67b",
+        "ext": "tsv",
+        "id": "fadc0d3f-e178-4ea4-81c3-d6b14ac01c3e",
+        "key": "SR06_sample1barcodes.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/SR06_sample1barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR06_sample1barcodes.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 124780,
         "storage_class": "L"
       },
       "SR10_sample1_barcodes.tsv": {
@@ -318,11 +556,11 @@
         },
         "checksum": "md5:15d857c9baa95fc772cf3ab2b4b8df96",
         "ext": "tsv",
-        "id": "89704ed2-9a35-4876-81b5-229eadf903d1",
+        "id": "981de0a4-c7f5-4171-bde9-dce9615b4ad7",
         "key": "SR10_sample1_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR10_sample1_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR10_sample1_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR10_sample1_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR10_sample1_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -335,11 +573,11 @@
         },
         "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
         "ext": "tsv",
-        "id": "ffd71387-b67a-477c-a504-9afe05f959e3",
+        "id": "954d8bdf-0794-4a6c-874b-c777d33bc1b7",
         "key": "SR10_sample1_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR10_sample1_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR10_sample1_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR10_sample1_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR10_sample1_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -352,15 +590,49 @@
         },
         "checksum": "md5:0235b6094639358592d91f60e1021e2e",
         "ext": "mtx",
-        "id": "10c3656d-0f33-4ec0-adde-15ab235818d9",
+        "id": "028ef67d-d79f-4e43-9275-70243efbdef5",
         "key": "SR10_sample1_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR10_sample1_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR10_sample1_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR10_sample1_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR10_sample1_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
         "size": 163299482,
+        "storage_class": "L"
+      },
+      "SR10_sample2_barcodes.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3c57703c6485d801f2e008d6abcc0048",
+        "ext": "tsv",
+        "id": "726ea9d9-3c4e-4344-9ca7-9af0589b3ccb",
+        "key": "SR10_sample2_barcodes.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/SR10_sample2_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR10_sample2_barcodes.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 201663,
+        "storage_class": "L"
+      },
+      "SR10_sample2_features.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
+        "ext": "tsv",
+        "id": "69a51371-efbe-4bae-b90e-692517340a78",
+        "key": "SR10_sample2_features.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/SR10_sample2_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR10_sample2_features.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 694699,
         "storage_class": "L"
       },
       "SR10_sample2_matrix.mtx": {
@@ -369,11 +641,11 @@
         },
         "checksum": "md5:9c13d2a392a10776fb72a43bf2960b00",
         "ext": "mtx",
-        "id": "206a611d-3036-4af1-abf2-58c8983f1646",
+        "id": "27b330ba-f632-45fd-81f6-e105d3aed7c5",
         "key": "SR10_sample2_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR10_sample2_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR10_sample2_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR10_sample2_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR10_sample2_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
@@ -386,11 +658,11 @@
         },
         "checksum": "md5:075b99e7795ca22179c4c044631df8aa",
         "ext": "tsv",
-        "id": "b6c13fb2-50a6-4808-8e91-cc86e9a71505",
+        "id": "8f8b65fc-6c17-4a5a-a33f-ca81bf4cafd6",
         "key": "SR10_sample3_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR10_sample3_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR10_sample3_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR10_sample3_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR10_sample3_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -403,11 +675,11 @@
         },
         "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
         "ext": "tsv",
-        "id": "b546f00a-9bc0-4784-a598-bffd57bf58d6",
+        "id": "38d79753-cdef-4531-987b-28a8f5c38ce6",
         "key": "SR10_sample3_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR10_sample3_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR10_sample3_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR10_sample3_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR10_sample3_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -420,11 +692,11 @@
         },
         "checksum": "md5:05a76f921163cb7a846a3c2ee3333c45",
         "ext": "mtx",
-        "id": "30871f0e-2fbd-4f61-bd58-9c1797b153fa",
+        "id": "26fea3b7-5904-4a1b-addb-224610dcc1f5",
         "key": "SR10_sample3_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR10_sample3_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR10_sample3_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR10_sample3_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR10_sample3_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
@@ -437,11 +709,11 @@
         },
         "checksum": "md5:e998d2c05d4a18c567c49088333a69bc",
         "ext": "tsv",
-        "id": "a602c6be-73cf-44de-a799-17f6f8161605",
+        "id": "dc1ecdd1-2a17-4059-9b32-c2153d8dca3a",
         "key": "SR10_sample4_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR10_sample4_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR10_sample4_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR10_sample4_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR10_sample4_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -454,11 +726,11 @@
         },
         "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
         "ext": "tsv",
-        "id": "2e0a02fd-88a6-4660-837a-512c49ff20b1",
+        "id": "1b6ab90f-70e8-4be1-a49a-56d409a65e12",
         "key": "SR10_sample4_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR10_sample4_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR10_sample4_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR10_sample4_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR10_sample4_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -471,11 +743,11 @@
         },
         "checksum": "md5:43380ce5f4c715f4786fca65c434fefa",
         "ext": "mtx",
-        "id": "9d3b95e1-5b90-462b-a3db-c1d8117ba5dc",
+        "id": "324e7938-0932-4f5f-bfdc-d5ddbda0811c",
         "key": "SR10_sample4_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR10_sample4_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR10_sample4_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR10_sample4_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR10_sample4_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
@@ -488,11 +760,11 @@
         },
         "checksum": "md5:a82162f31a5ce62f8779bde2ba6b6a01",
         "ext": "tsv",
-        "id": "d6841daa-73c1-4b48-88ff-b6db34f64953",
+        "id": "9743d4a1-b62c-4001-9c0a-2cd054afd64d",
         "key": "SR11_sample1_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR11_sample1_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR11_sample1_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR11_sample1_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR11_sample1_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -505,11 +777,11 @@
         },
         "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
         "ext": "tsv",
-        "id": "32d6a524-1f7f-46ac-8c80-de68bc48ea95",
+        "id": "bd9a467b-acdb-4911-a511-6c589c0587d2",
         "key": "SR11_sample1_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR11_sample1_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR11_sample1_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR11_sample1_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR11_sample1_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -522,11 +794,11 @@
         },
         "checksum": "md5:575a6e2a0b0b8b557e7b4b284a34d46f",
         "ext": "mtx",
-        "id": "60cda66e-3d6b-4c2d-8f74-6512c67e7fdd",
+        "id": "e65f2f82-4afd-4a79-b868-844f57361d4f",
         "key": "SR11_sample1_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR11_sample1_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR11_sample1_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR11_sample1_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR11_sample1_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
@@ -539,11 +811,11 @@
         },
         "checksum": "md5:c5e53989bfa14540a42aaced42a8ea92",
         "ext": "tsv",
-        "id": "89b73d41-aa8d-432f-a9ff-7b0368b6dca4",
+        "id": "3ee8b584-4172-4654-8e05-0bbf2e843cf5",
         "key": "SR11_sample2_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR11_sample2_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR11_sample2_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR11_sample2_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR11_sample2_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -556,11 +828,11 @@
         },
         "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
         "ext": "tsv",
-        "id": "fe993157-f779-42d0-a73a-12739cc7f8cd",
+        "id": "165dee06-e000-400f-ab2a-d77dd7f12696",
         "key": "SR11_sample2_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR11_sample2_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR11_sample2_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR11_sample2_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR11_sample2_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -573,11 +845,11 @@
         },
         "checksum": "md5:0cd84b4970f98ff764d213285e06ba4d",
         "ext": "mtx",
-        "id": "9b09b370-cfc6-45cb-ba12-811cd62f5a3b",
+        "id": "00ea8cdb-3fa8-470b-bb21-a9479322fb5f",
         "key": "SR11_sample2_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR11_sample2_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR11_sample2_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR11_sample2_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR11_sample2_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
@@ -590,11 +862,11 @@
         },
         "checksum": "md5:f1e97c6579db427549f5af0ffe2c7ccf",
         "ext": "tsv",
-        "id": "17c8f3d4-4a8a-4dd0-9307-b4d2c21df064",
+        "id": "a891758a-e8db-4059-98f1-430f6ebd7191",
         "key": "SR11_sample3_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR11_sample3_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR11_sample3_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR11_sample3_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR11_sample3_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -607,11 +879,11 @@
         },
         "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
         "ext": "tsv",
-        "id": "04866b1d-29fa-4efd-a13d-3cf238a8af5a",
+        "id": "b4447562-d451-46cf-8739-bce19842a15c",
         "key": "SR11_sample3_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR11_sample3_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR11_sample3_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR11_sample3_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR11_sample3_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -624,11 +896,11 @@
         },
         "checksum": "md5:d73d32c4d12af079eb282e67ddfa8212",
         "ext": "mtx",
-        "id": "5b03c485-e7bf-4bf2-af19-353defe468d3",
+        "id": "691141b6-32bf-45b8-84e7-8470a27a98b9",
         "key": "SR11_sample3_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR11_sample3_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR11_sample3_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR11_sample3_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR11_sample3_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
@@ -641,11 +913,11 @@
         },
         "checksum": "md5:bc52cf821325510d15ebbfa00500f941",
         "ext": "tsv",
-        "id": "8236fa0e-fa9c-4027-8140-3ba9e90a5266",
+        "id": "6a634d81-73c9-4e03-93b5-c83f458afaea",
         "key": "SR11_sample4_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR11_sample4_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR11_sample4_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR11_sample4_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR11_sample4_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -658,11 +930,11 @@
         },
         "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
         "ext": "tsv",
-        "id": "4dbe1c59-247d-4d01-9944-d64e528bcddf",
+        "id": "e7c1c1db-5702-4b79-8a68-a5089ec32a17",
         "key": "SR11_sample4_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR11_sample4_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR11_sample4_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR11_sample4_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR11_sample4_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -675,11 +947,11 @@
         },
         "checksum": "md5:ff9d302c4e74cb9f1e053a0b05337260",
         "ext": "mtx",
-        "id": "2f1f9a5e-463e-4587-b3df-92961122846e",
+        "id": "73bec38a-fbfd-44bf-b359-fe98ae469f12",
         "key": "SR11_sample4_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR11_sample4_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR11_sample4_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR11_sample4_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR11_sample4_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
@@ -692,11 +964,11 @@
         },
         "checksum": "md5:a15505b054c888da9b120e9a7fa57592",
         "ext": "tsv",
-        "id": "c98764a5-1bda-4e3d-b2fb-36bad3e20418",
+        "id": "d5a4f0ba-06bf-45fb-bce6-75f48f92d30e",
         "key": "SR12_sample1_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample1_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample1_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample1_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample1_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -709,11 +981,11 @@
         },
         "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
         "ext": "tsv",
-        "id": "d3df5f30-7858-4462-a4dc-35e39c671f04",
+        "id": "69ab243b-d001-4117-bc24-798a7afe29cf",
         "key": "SR12_sample1_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample1_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample1_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample1_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample1_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -726,11 +998,11 @@
         },
         "checksum": "md5:0a21e4b2277cc604ad321cd34459228f",
         "ext": "mtx",
-        "id": "a57a694f-7cd3-426d-bafb-46a989b92eb6",
+        "id": "6425f110-b951-4467-8fb1-2b157425abd0",
         "key": "SR12_sample1_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample1_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample1_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample1_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample1_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
@@ -743,11 +1015,11 @@
         },
         "checksum": "md5:c5e12e41a7de5785ac2f6c1b223de8ec",
         "ext": "tsv",
-        "id": "d03401b2-d156-4c5f-bca7-2cb2c7e25ec8",
+        "id": "5a894537-9703-45c0-9673-5bbb11087898",
         "key": "SR12_sample2_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample2_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample2_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample2_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample2_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -760,11 +1032,11 @@
         },
         "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
         "ext": "tsv",
-        "id": "fbaefde6-0c73-448b-bc5d-ff4d9d5572f5",
+        "id": "64a527b6-ea6d-46dd-8d5a-53016eab9214",
         "key": "SR12_sample2_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample2_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample2_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample2_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample2_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -777,11 +1049,11 @@
         },
         "checksum": "md5:1c1280c6a73be9756a98295f713f2b66",
         "ext": "mtx",
-        "id": "aa87ddb2-967d-4e55-8d20-5dd71d2f8d11",
+        "id": "2d1e53b5-252f-4b68-813f-2ec760152021",
         "key": "SR12_sample2_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample2_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample2_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample2_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample2_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
@@ -794,11 +1066,11 @@
         },
         "checksum": "md5:843c172562d7ab38e0a58d4eaa1dfad5",
         "ext": "tsv",
-        "id": "d5d6d4ee-5285-4ef1-bacb-d6d8344f5ae2",
+        "id": "72489538-7dbe-4095-9e5b-1c9f65ea3f8a",
         "key": "SR12_sample3_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample3_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample3_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample3_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample3_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -811,11 +1083,11 @@
         },
         "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
         "ext": "tsv",
-        "id": "d045e12a-2556-460b-8cb0-5e2903bfa68d",
+        "id": "8c20e30e-b77f-4729-9cc3-4ab00a37b2ea",
         "key": "SR12_sample3_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample3_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample3_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample3_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample3_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -828,11 +1100,11 @@
         },
         "checksum": "md5:26a24ee645a273ff0bd2fdf64a699546",
         "ext": "mtx",
-        "id": "3bc1d74e-1f35-4fde-a258-7765e12cccf7",
+        "id": "6e33fc05-0dad-4881-8c34-8c1879d8f89c",
         "key": "SR12_sample3_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample3_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample3_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample3_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample3_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
@@ -845,11 +1117,11 @@
         },
         "checksum": "md5:fc31616d8969635a8ab5b32639c0803d",
         "ext": "tsv",
-        "id": "02504109-4854-490f-a7e1-cfd6ab19e1b6",
+        "id": "c9f40663-088d-4158-a2fa-5b3910170790",
         "key": "SR12_sample4_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample4_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample4_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample4_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample4_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -862,11 +1134,11 @@
         },
         "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
         "ext": "tsv",
-        "id": "5e0f6ced-635a-4829-a3e2-5f44cfbb41f6",
+        "id": "13b46c3e-7c18-4a23-aa6a-b43c4eed7597",
         "key": "SR12_sample4_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample4_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample4_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample4_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample4_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -879,11 +1151,11 @@
         },
         "checksum": "md5:5286f3d59aee16ecf07ce34a3e86e669",
         "ext": "mtx",
-        "id": "e1a5766d-50ab-4900-9b68-001bb342395a",
+        "id": "78b77358-7da0-46a4-b1a1-a384f73d00e8",
         "key": "SR12_sample4_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample4_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample4_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample4_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample4_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
@@ -896,11 +1168,11 @@
         },
         "checksum": "md5:72124c3956c0fffd3a57e1b75269897e",
         "ext": "tsv",
-        "id": "ecabed49-ff81-407d-9245-53da50263ca2",
+        "id": "d004469a-eec4-4757-9451-adcf050fd418",
         "key": "SR12_sample5_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample5_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample5_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample5_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample5_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -913,11 +1185,11 @@
         },
         "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
         "ext": "tsv",
-        "id": "c94224ab-a7f1-4439-acdb-d185245a4160",
+        "id": "dbf1b557-147f-4b31-8d01-848e68e5e894",
         "key": "SR12_sample5_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample5_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample5_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample5_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample5_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -930,11 +1202,11 @@
         },
         "checksum": "md5:c1ef1b66f33009d1ee407e474e0e3fe5",
         "ext": "mtx",
-        "id": "27af6c05-4971-456f-980f-011511437e06",
+        "id": "8e352793-c146-4f0b-abe7-24ba90dc2505",
         "key": "SR12_sample5_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample5_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample5_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample5_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample5_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
@@ -947,11 +1219,11 @@
         },
         "checksum": "md5:00226d6af51f7f378347e522fede1e5a",
         "ext": "tsv",
-        "id": "f12f93e1-76d3-439d-b700-f7840c0436ed",
+        "id": "f0f308f4-31b8-48f7-a9ee-749896e936bb",
         "key": "SR12_sample6_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample6_barcodes.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample6_barcodes.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample6_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample6_barcodes.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -964,11 +1236,11 @@
         },
         "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
         "ext": "tsv",
-        "id": "d3e05e7b-f0be-4848-8ee4-31f39b843082",
+        "id": "d1a35ea1-0491-4a7c-a90b-fa2540cca053",
         "key": "SR12_sample6_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample6_features.tsv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample6_features.tsv"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample6_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample6_features.tsv"
         },
         "metadata": {},
         "mimetype": "text/tab-separated-values",
@@ -981,117 +1253,321 @@
         },
         "checksum": "md5:c011d6c6896bfca5dbcfeaae9e361d3e",
         "ext": "mtx",
-        "id": "5d12655a-d9f5-4cfa-a35e-83bfba0e36eb",
+        "id": "b02ff4ac-14e9-4c9c-87c1-295c490ea60f",
         "key": "SR12_sample6_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample6_matrix.mtx/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample6_matrix.mtx"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample6_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample6_matrix.mtx"
         },
         "metadata": {},
         "mimetype": "application/octet-stream",
         "size": 267603649,
         "storage_class": "L"
       },
-      "SR12_sample7_barcodes.tsv.gz": {
+      "SR12_sample7_barcodes.tsv": {
         "access": {
           "hidden": false
         },
-        "checksum": "md5:c83db25b15ccff9cb750cc186c6bd80a",
-        "ext": "gz",
-        "id": "ecdff860-1edc-4343-a9d4-4732845d8bb7",
-        "key": "SR12_sample7_barcodes.tsv.gz",
+        "checksum": "md5:7f4600761430a3acdd55ea782606a800",
+        "ext": "tsv",
+        "id": "bc86e1d5-3d9e-420e-854a-e74f852374e8",
+        "key": "SR12_sample7_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample7_barcodes.tsv.gz/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample7_barcodes.tsv.gz"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample7_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample7_barcodes.tsv"
         },
         "metadata": {},
-        "mimetype": "application/gzip",
-        "size": 14858,
+        "mimetype": "text/tab-separated-values",
+        "size": 66933,
         "storage_class": "L"
       },
-      "SR12_sample7_features.tsv.gz": {
+      "SR12_sample7_features.tsv": {
         "access": {
           "hidden": false
         },
-        "checksum": "md5:a456ba34400b83bf0f6aefc82956ce28",
-        "ext": "gz",
-        "id": "9d857669-e0e7-4aac-824c-2ea454c40ebf",
-        "key": "SR12_sample7_features.tsv.gz",
+        "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
+        "ext": "tsv",
+        "id": "ce1561f9-33f2-4ec7-a2f5-dc7e71d61fb2",
+        "key": "SR12_sample7_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample7_features.tsv.gz/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample7_features.tsv.gz"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample7_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample7_features.tsv"
         },
         "metadata": {},
-        "mimetype": "application/gzip",
-        "size": 156411,
+        "mimetype": "text/tab-separated-values",
+        "size": 694699,
         "storage_class": "L"
       },
-      "SR12_sample7_matrix.mtx.gz": {
+      "SR12_sample7_matrix.mtx": {
         "access": {
           "hidden": false
         },
-        "checksum": "md5:35fd08b6c3867142e52524727e6f5f32",
-        "ext": "gz",
-        "id": "248d8aca-d97d-44eb-a547-2f9eb9c0a31c",
-        "key": "SR12_sample7_matrix.mtx.gz",
+        "checksum": "md5:ec7f992ced60123dbabfac8b1c2415a5",
+        "ext": "mtx",
+        "id": "57239756-cf8e-47a2-8eab-e7deb803c314",
+        "key": "SR12_sample7_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample7_matrix.mtx.gz/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample7_matrix.mtx.gz"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample7_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample7_matrix.mtx"
         },
         "metadata": {},
-        "mimetype": "application/gzip",
-        "size": 29447137,
+        "mimetype": "application/octet-stream",
+        "size": 99313860,
         "storage_class": "L"
       },
-      "SR12_sample8_barcodes.tsv.gz": {
+      "SR12_sample8_barcodes.tsv": {
         "access": {
           "hidden": false
         },
-        "checksum": "md5:95d2a106105c9e5c77f3bac21ec4285b",
-        "ext": "gz",
-        "id": "3e9dacf0-b7b0-40d8-9c7e-722b0fe686ff",
-        "key": "SR12_sample8_barcodes.tsv.gz",
+        "checksum": "md5:4abb03a516c8191ebaa43de9031e8097",
+        "ext": "tsv",
+        "id": "66896920-1c30-485c-8d00-b8d48b51df41",
+        "key": "SR12_sample8_barcodes.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample8_barcodes.tsv.gz/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample8_barcodes.tsv.gz"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample8_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample8_barcodes.tsv"
         },
         "metadata": {},
-        "mimetype": "application/gzip",
-        "size": 16097,
+        "mimetype": "text/tab-separated-values",
+        "size": 73575,
         "storage_class": "L"
       },
-      "SR12_sample8_features.tsv.gz": {
+      "SR12_sample8_features.tsv": {
         "access": {
           "hidden": false
         },
-        "checksum": "md5:389f2f6bfff8116f4e63880b4a476305",
-        "ext": "gz",
-        "id": "eb9e0808-c9c3-458e-952f-989e1cf0d20e",
-        "key": "SR12_sample8_features.tsv.gz",
+        "checksum": "md5:04888cfc99ae473d41aeb54f73428ba4",
+        "ext": "tsv",
+        "id": "f4c7c3c2-2c55-438e-9966-00b277571007",
+        "key": "SR12_sample8_features.tsv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample8_features.tsv.gz/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample8_features.tsv.gz"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample8_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample8_features.tsv"
         },
         "metadata": {},
-        "mimetype": "application/gzip",
-        "size": 156411,
+        "mimetype": "text/tab-separated-values",
+        "size": 694699,
         "storage_class": "L"
       },
-      "SR12_sample8_matrix.mtx.gz": {
+      "SR12_sample8_matrix.mtx": {
         "access": {
           "hidden": false
         },
-        "checksum": "md5:82c27f1a36fe6d2e5a3c3a08aed12f12",
-        "ext": "gz",
-        "id": "9e4c2b31-9c0a-4a9b-87ca-e0e3ed2234cb",
-        "key": "SR12_sample8_matrix.mtx.gz",
+        "checksum": "md5:af91e3b83db707b9d4f08bbcd9ae0e3c",
+        "ext": "mtx",
+        "id": "7cce8483-a8c8-4d56-9c61-8c957d8c3fa3",
+        "key": "SR12_sample8_matrix.mtx",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/SR12_sample8_matrix.mtx.gz/content",
-          "self": "https://zenodo.org/api/records/15554685/files/SR12_sample8_matrix.mtx.gz"
+          "content": "https://zenodo.org/api/records/16891262/files/SR12_sample8_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/SR12_sample8_matrix.mtx"
         },
         "metadata": {},
-        "mimetype": "application/gzip",
-        "size": 52978005,
+        "mimetype": "application/octet-stream",
+        "size": 179329863,
+        "storage_class": "L"
+      },
+      "Song_PDOs_barcodes.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e79253f972c92aac0954bdf8ad0ffce5",
+        "ext": "tsv",
+        "id": "a0860a6d-52ec-4b0c-bce2-e2c6a8b2f7be",
+        "key": "Song_PDOs_barcodes.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Song_PDOs_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Song_PDOs_barcodes.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 500956,
+        "storage_class": "L"
+      },
+      "Song_PDOs_features.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:659612817d40493e947e9164c16cd283",
+        "ext": "tsv",
+        "id": "2979f304-ffd2-4074-bd93-3196a0f3d423",
+        "key": "Song_PDOs_features.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Song_PDOs_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Song_PDOs_features.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 108613,
+        "storage_class": "L"
+      },
+      "Song_PDOs_matrix.mtx": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4b570c88a019de1833e5c4a24eeabb4a",
+        "ext": "mtx",
+        "id": "737a7241-1cbd-4843-bf54-bea5eaad1e49",
+        "key": "Song_PDOs_matrix.mtx",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Song_PDOs_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Song_PDOs_matrix.mtx"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 165762936,
+        "storage_class": "L"
+      },
+      "Song_PDOs_metadata.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:5264d82b223e572469c586da8eaf71c8",
+        "ext": "csv",
+        "id": "90c4d764-5762-4579-bf5b-844bc81450f8",
+        "key": "Song_PDOs_metadata.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Song_PDOs_metadata.csv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Song_PDOs_metadata.csv"
+        },
+        "metadata": {},
+        "mimetype": "text/csv",
+        "size": 1684557,
+        "storage_class": "L"
+      },
+      "Song_Tissue_barcodes.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:e4f713d41c1dbfa081b9ea9bbc838e76",
+        "ext": "tsv",
+        "id": "5ebab9b6-2408-4485-bb30-7dc1d67d3496",
+        "key": "Song_Tissue_barcodes.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Song_Tissue_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Song_Tissue_barcodes.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 495598,
+        "storage_class": "L"
+      },
+      "Song_Tissue_features.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:50119b752baba782c613ad8f5dd43dc9",
+        "ext": "tsv",
+        "id": "69bdf6e8-7913-4c9f-a6e9-c79193328191",
+        "key": "Song_Tissue_features.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Song_Tissue_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Song_Tissue_features.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 105123,
+        "storage_class": "L"
+      },
+      "Song_Tissue_matrix.mtx": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2f53d546bb8fdefccb960457d3d0038a",
+        "ext": "mtx",
+        "id": "e5ed560b-e302-4321-b77c-4d9b70439eb5",
+        "key": "Song_Tissue_matrix.mtx",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Song_Tissue_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Song_Tissue_matrix.mtx"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 199468629,
+        "storage_class": "L"
+      },
+      "Song_Tissue_metadata.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a82ee62b5500821159ea83f8a70262ef",
+        "ext": "csv",
+        "id": "300add7c-d85e-44ba-9aa1-9d42c0126a80",
+        "key": "Song_Tissue_metadata.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Song_Tissue_metadata.csv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Song_Tissue_metadata.csv"
+        },
+        "metadata": {},
+        "mimetype": "text/csv",
+        "size": 1329843,
+        "storage_class": "L"
+      },
+      "Tabula_Sapiens_barcodes.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:11d0a43a540fd4dc724e3d1ffbbd6c67",
+        "ext": "tsv",
+        "id": "9b19041d-db74-4e36-ab65-fb6da7f18a89",
+        "key": "Tabula_Sapiens_barcodes.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Tabula_Sapiens_barcodes.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Tabula_Sapiens_barcodes.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 711298,
+        "storage_class": "L"
+      },
+      "Tabula_Sapiens_features.tsv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:039af6b1162bc404804b063d32c6d7cc",
+        "ext": "tsv",
+        "id": "d17152c4-29a1-44d4-b422-51725268599a",
+        "key": "Tabula_Sapiens_features.tsv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Tabula_Sapiens_features.tsv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Tabula_Sapiens_features.tsv"
+        },
+        "metadata": {},
+        "mimetype": "text/tab-separated-values",
+        "size": 170948,
+        "storage_class": "L"
+      },
+      "Tabula_Sapiens_matrix.mtx": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c94d3fed7379ab64bb53a677f6baadc9",
+        "ext": "mtx",
+        "id": "314c9af1-0f32-4d7c-906d-1e1e38f870d6",
+        "key": "Tabula_Sapiens_matrix.mtx",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Tabula_Sapiens_matrix.mtx/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Tabula_Sapiens_matrix.mtx"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 534921219,
+        "storage_class": "L"
+      },
+      "Tabula_Sapiens_metadata.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:f71a89a2844162ab2688dc757d0d6a65",
+        "ext": "csv",
+        "id": "529e2e1d-8c94-4120-affe-7bf272d95304",
+        "key": "Tabula_Sapiens_metadata.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/16891262/files/Tabula_Sapiens_metadata.csv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/Tabula_Sapiens_metadata.csv"
+        },
+        "metadata": {},
+        "mimetype": "text/csv",
+        "size": 2835055,
         "storage_class": "L"
       },
       "scRNAseq_metadata.csv": {
@@ -1100,11 +1576,11 @@
         },
         "checksum": "md5:a137bf6832c774b78ad1e1a2f88a227c",
         "ext": "csv",
-        "id": "e7361831-8077-4ebc-a421-8c7019df77d7",
+        "id": "215d33c6-4e73-4142-9b7e-4a36eab90388",
         "key": "scRNAseq_metadata.csv",
         "links": {
-          "content": "https://zenodo.org/api/records/15554685/files/scRNAseq_metadata.csv/content",
-          "self": "https://zenodo.org/api/records/15554685/files/scRNAseq_metadata.csv"
+          "content": "https://zenodo.org/api/records/16891262/files/scRNAseq_metadata.csv/content",
+          "self": "https://zenodo.org/api/records/16891262/files/scRNAseq_metadata.csv"
         },
         "metadata": {},
         "mimetype": "text/csv",
@@ -1113,41 +1589,41 @@
       }
     },
     "order": [],
-    "total_bytes": 11211241527
+    "total_bytes": 14789897950
   },
-  "id": "15554685",
+  "id": "16891262",
   "is_draft": false,
   "is_published": true,
   "links": {
-    "access": "https://zenodo.org/api/records/15554685/access",
-    "access_grants": "https://zenodo.org/api/records/15554685/access/grants",
-    "access_links": "https://zenodo.org/api/records/15554685/access/links",
-    "access_request": "https://zenodo.org/api/records/15554685/access/request",
-    "access_users": "https://zenodo.org/api/records/15554685/access/users",
-    "archive": "https://zenodo.org/api/records/15554685/files-archive",
-    "archive_media": "https://zenodo.org/api/records/15554685/media-files-archive",
-    "communities": "https://zenodo.org/api/records/15554685/communities",
-    "communities-suggestions": "https://zenodo.org/api/records/15554685/communities-suggestions",
-    "doi": "https://doi.org/10.5281/zenodo.15554685",
-    "draft": "https://zenodo.org/api/records/15554685/draft",
-    "files": "https://zenodo.org/api/records/15554685/files",
-    "latest": "https://zenodo.org/api/records/15554685/versions/latest",
-    "latest_html": "https://zenodo.org/records/15554685/latest",
-    "media_files": "https://zenodo.org/api/records/15554685/media-files",
+    "access": "https://zenodo.org/api/records/16891262/access",
+    "access_grants": "https://zenodo.org/api/records/16891262/access/grants",
+    "access_links": "https://zenodo.org/api/records/16891262/access/links",
+    "access_request": "https://zenodo.org/api/records/16891262/access/request",
+    "access_users": "https://zenodo.org/api/records/16891262/access/users",
+    "archive": "https://zenodo.org/api/records/16891262/files-archive",
+    "archive_media": "https://zenodo.org/api/records/16891262/media-files-archive",
+    "communities": "https://zenodo.org/api/records/16891262/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/16891262/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.16891262",
+    "draft": "https://zenodo.org/api/records/16891262/draft",
+    "files": "https://zenodo.org/api/records/16891262/files",
+    "latest": "https://zenodo.org/api/records/16891262/versions/latest",
+    "latest_html": "https://zenodo.org/records/16891262/latest",
+    "media_files": "https://zenodo.org/api/records/16891262/media-files",
     "parent": "https://zenodo.org/api/records/15532702",
     "parent_doi": "https://doi.org/10.5281/zenodo.15532702",
     "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15532702",
     "parent_html": "https://zenodo.org/records/15532702",
-    "preview_html": "https://zenodo.org/records/15554685?preview=1",
-    "requests": "https://zenodo.org/api/records/15554685/requests",
-    "reserve_doi": "https://zenodo.org/api/records/15554685/draft/pids/doi",
-    "self": "https://zenodo.org/api/records/15554685",
-    "self_doi": "https://doi.org/10.5281/zenodo.15554685",
-    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15554685",
-    "self_html": "https://zenodo.org/records/15554685",
-    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15554685/manifest",
-    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15554685/sequence/default",
-    "versions": "https://zenodo.org/api/records/15554685/versions"
+    "preview_html": "https://zenodo.org/records/16891262?preview=1",
+    "requests": "https://zenodo.org/api/records/16891262/requests",
+    "reserve_doi": "https://zenodo.org/api/records/16891262/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/16891262",
+    "self_doi": "https://doi.org/10.5281/zenodo.16891262",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16891262",
+    "self_html": "https://zenodo.org/records/16891262",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:16891262/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:16891262/sequence/default",
+    "versions": "https://zenodo.org/api/records/16891262/versions"
   },
   "media_files": {
     "count": 0,
@@ -1159,7 +1635,7 @@
   "metadata": {
     "additional_descriptions": [
       {
-        "description": "<table style=\"width: 99.812%; height: 2242.72px;\">\n<tbody>\n<tr style=\"height: 47.5879px;\">\n<td style=\"width: 44.1791%; height: 47.5879px;\">\n<p><strong>File Name</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 47.5879px;\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr style=\"height: 86.7871px;\">\n<td style=\"width: 44.1791%; height: 86.7871px;\">\n<p><strong>scRNAseq_metadata.csv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 86.7871px;\">\n<p>Contains sequencing statistics and sample-specific annotations for all 17 samples (PDOs and Tissue) generated in the original paper (Dolgos <em>et al.,</em> 2025).</p>\n</td>\n</tr>\n<tr style=\"height: 106.387px;\">\n<td style=\"width: 44.1791%; height: 106.387px;\">\n<p><strong>SR_sample_matrix.mtx</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 106.387px;\">\n<p>Sparse matrix file for each sample generated in the original paper (Dolgos <em>et al.,</em> 2025), containing gene expression data (genes x cells) after genome alignment and cell demultiplexing. No quality control has been applied yet.</p>\n</td>\n</tr>\n<tr style=\"height: 86.7871px;\">\n<td style=\"width: 44.1791%; height: 86.7871px;\">\n<p><strong>SR_sample_features.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 86.7871px;\">\n<p>Tab-separated file containing gene identifiers (e.g., gene symbols or Ensembl IDs) for each sample generated in the original paper (Dolgos <em>et al.,</em> 2025).</p>\n</td>\n</tr>\n<tr style=\"height: 67.1875px;\">\n<td style=\"width: 44.1791%; height: 67.1875px;\">\n<p><strong>SR_sample_barcodes.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 67.1875px;\">\n<p>Tab-separated file containing unique cell barcodes for each sample generated in the original paper (Dolgos <em>et al.,</em> 2025).</p>\n</td>\n</tr>\n<tr style=\"height: 106.387px;\">\n<td style=\"width: 44.1791%; height: 106.387px;\">\n<p><strong>Dolgos_early_passage_PDOs_matrix.mtx</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 106.387px;\">\n<p>Sparse matrix file for the combined early passage PDO samples of the original paper (Dolgos&nbsp;<em>et al.,</em> 2025). This data has undergone quality control to exclude low-quality cells.</p>\n</td>\n</tr>\n<tr style=\"height: 86.7871px;\">\n<td style=\"width: 44.1791%; height: 86.7871px;\">\n<p><strong>Dolgos_early_passage_PDOs_features.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 86.7871px;\">\n<p>Tab-separated file containing gene identifiers for the combined early passage PDO samples of the original paper (Dolgos <em>et al.,</em> 2025).</p>\n</td>\n</tr>\n<tr style=\"height: 86.7871px;\">\n<td style=\"width: 44.1791%; height: 86.7871px;\">\n<p><strong>Dolgos_early_passage_PDOs_barcodes.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 86.7871px;\">\n<p>Tab-separated file containing unique cell barcodes for the combined early passage PDO samples of the original paper (Dolgos&nbsp;<em>et al.,</em> 2025).</p>\n</td>\n</tr>\n<tr style=\"height: 125.986px;\">\n<td style=\"width: 44.1791%; height: 125.986px;\">\n<p><strong>Dolgos_early_passage_PDOs_metadata.csv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 125.986px;\">\n<p>Contains per-cell metadata for the combined early passage PDO samples. Includes UMAP coordinates, size factors used for log normalization, clustering annotations, cell cycle phase annotations, culture conditions, and various signature scores.</p>\n</td>\n</tr>\n<tr style=\"height: 106.387px;\">\n<td style=\"width: 44.1791%; height: 106.387px;\">\n<p><strong>Atlas_PCa_PDOs_matrix.mtx</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 106.387px;\">\n<p>Sparse matrix file for the combined PCa PDOs datasets (Dolgos_PDOs, Huang_PDOs, Song_PDOs, McCray_PDOs). This data has undergone quality control to exclude low-quality cells.</p>\n</td>\n</tr>\n<tr style=\"height: 86.7871px;\">\n<td style=\"width: 44.1791%; height: 86.7871px;\">\n<p><strong>Atlas_PCa_PDOs_features.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 86.7871px;\">\n<p>Tab-separated file containing gene identifiers for the combined PCa PDOs datasets (Dolgos_PDOs, Huang_PDOs, Song_PDOs, McCray_PDOs) .</p>\n</td>\n</tr>\n<tr style=\"height: 86.7871px;\">\n<td style=\"width: 44.1791%; height: 86.7871px;\">\n<p><strong>Atlas_PCa_PDOs_barcodes.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 86.7871px;\">\n<p>Tab-separated file containing unique cell barcodes for the combined PCa PDOs datasets (Dolgos_PDOs, Huang_PDOs, Song_PDOs, McCray_PDOs) .</p>\n</td>\n</tr>\n<tr style=\"height: 125.986px;\">\n<td style=\"width: 44.1791%; height: 125.986px;\">\n<p><strong>Atlas_PCa_PDOs_metadata.csv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 125.986px;\">\n<p>Contains per-cell metadata for the combined PCa PDOs datasets (Dolgos_PDOs, Huang_PDOs, Song_PDOs, McCray_PDOs). Includes UMAP coordinates, size factors used for log normalization, culture conditions and cell annotations.</p>\n</td>\n</tr>\n<tr style=\"height: 145.586px;\">\n<td style=\"width: 44.1791%; height: 145.586px;\"><strong>Dolgos_Matched_Tissue_PDOs_matrix.mtx</strong></td>\n<td style=\"width: 55.9056%; height: 145.586px;\">Sparse matrix file for the combined PCa tissues and PDOs datasets from the original paper (Dolgos <em>et al.,</em> 2025). This data has undergone quality control to exclude low-quality cells.</td>\n</tr>\n<tr style=\"height: 91.5723px;\">\n<td style=\"width: 44.1791%; height: 91.5723px;\"><strong>Dolgos_Matched_Tissue_PDOs_features.tsv</strong></td>\n<td style=\"width: 55.9056%; height: 91.5723px;\">Tab-separated file containing gene identifiers for the combined PCa tissues and PDOs datasets from the original paper (Dolgos <em>et al.,</em> 2025).</td>\n</tr>\n<tr style=\"height: 118.586px;\">\n<td style=\"width: 44.1791%; height: 118.586px;\"><strong>Dolgos_Matched_Tissue_PDOs_barcodes.tsv</strong></td>\n<td style=\"width: 55.9056%; height: 118.586px;\">Tab-separated file containing unique cell barcodes for the combined PCa tissues and PDOs datasets from the original paper (Dolgos <em>et al.,</em> 2025).</td>\n</tr>\n<tr style=\"height: 97.998px;\">\n<td style=\"width: 44.1791%; height: 97.998px;\"><strong>Dolgos_Matched_Tissue_PDOs_metadata.csv</strong></td>\n<td style=\"width: 55.9056%; height: 97.998px;\">Contains per-cell metadata for the combined PCa PDOs datasets (Dolgos_PDOs, Huang_PDOs, Song_PDOs, McCray_PDOs). Includes UMAP coordinates, size factors used for log normalization, infer cnv score and cell annotations.</td>\n</tr>\n<tr style=\"height: 145.586px;\">\n<td style=\"width: 44.1791%; height: 145.586px;\">\n<p><strong>Dataset_Material_matrix.mtx</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 145.586px;\">\n<p>Sparse matrix of single-cell gene expression data for a given dataset (<span>Dataset</span> = Song, Huang, McCray, Henry, or Tabula_Sapiens) and material (<span>Material</span> = PDOs or Tissue). Data are provided either as released by the authors (after quality control) or after reproducing the QC described in the original publications (see <em>Materials and Methods</em>).</p>\n</td>\n</tr>\n<tr style=\"height: 145.586px;\">\n<td style=\"width: 44.1791%; height: 145.586px;\">\n<p><strong>Dataset_Material_features.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 145.586px;\">\n<p>Tab-separated file listing gene identifiers for the PCa datasets (<span>Dataset</span> = Song, Huang, McCray, Henry, or Tabula_Sapiens) and material (<span>Material</span> = PDOs or Tissue), either as provided by the authors (after quality control) or after reproducing the QC described in the original publications (see <em>Materials and Methods</em>).</p>\n</td>\n</tr>\n<tr style=\"height: 145.586px;\">\n<td style=\"width: 44.1791%; height: 145.586px;\">\n<p><strong>Dataset_Material_barcodes.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 145.586px;\">\n<p>Tab-separated file listing cell barcodes for the PCa datasets (<span>Dataset</span> = Song, Huang, McCray, Henry, or Tabula_Sapiens) and material (<span>Material</span> = PDOs or Tissue), either as provided by the authors (after quality control) or after reproducing the QC described in the original publications (see <em>Materials and Methods</em>).</p>\n</td>\n</tr>\n<tr style=\"height: 145.586px;\">\n<td style=\"width: 44.1791%; height: 145.586px;\">\n<p><strong>Dataset_Material_metadata.csv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 145.586px;\">\n<p>Contains per-cell metadata for the combined for the PCa datasets (<span>Dataset</span> = Song, Huang, McCray, Henry, or Tabula_Sapiens) and material (<span>Material</span> = PDOs or Tissue). Includes UMAP coordinates, size factors used for log normalization, cell annotations and original metadata (<em>i.e </em>cell type) when made accessible by the author.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+        "description": "<table style=\"width: 99.812%; height: 2242.72px;\">\n<tbody>\n<tr style=\"height: 47.5879px;\">\n<td style=\"width: 44.1791%; height: 47.5879px;\">\n<p><strong>File Name</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 47.5879px;\">\n<p><strong>Description</strong></p>\n</td>\n</tr>\n<tr style=\"height: 86.7871px;\">\n<td style=\"width: 44.1791%; height: 86.7871px;\">\n<p><strong>scRNAseq_metadata.csv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 86.7871px;\">\n<p>Contains sequencing statistics and sample-specific annotations for all 17 samples (PDOs and Tissue) generated in the original paper (Dolgos <em>et al.,</em> 2025).</p>\n</td>\n</tr>\n<tr style=\"height: 106.387px;\">\n<td style=\"width: 44.1791%; height: 106.387px;\">\n<p><strong>SR_sample_matrix.mtx</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 106.387px;\">\n<p>Sparse matrix file for each sample generated in the original paper (Dolgos <em>et al.,</em> 2025), containing gene expression data (genes x cells) after genome alignment and cell demultiplexing. No quality control has been applied yet.</p>\n</td>\n</tr>\n<tr style=\"height: 86.7871px;\">\n<td style=\"width: 44.1791%; height: 86.7871px;\">\n<p><strong>SR_sample_features.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 86.7871px;\">\n<p>Tab-separated file containing gene identifiers (e.g., gene symbols or Ensembl IDs) for each sample generated in the original paper (Dolgos <em>et al.,</em> 2025).</p>\n</td>\n</tr>\n<tr style=\"height: 67.1875px;\">\n<td style=\"width: 44.1791%; height: 67.1875px;\">\n<p><strong>SR_sample_barcodes.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 67.1875px;\">\n<p>Tab-separated file containing unique cell barcodes for each sample generated in the original paper (Dolgos <em>et al.,</em> 2025).</p>\n</td>\n</tr>\n<tr style=\"height: 106.387px;\">\n<td style=\"width: 44.1791%; height: 106.387px;\">\n<p><strong>Dolgos_early_passage_PDOs_matrix.mtx</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 106.387px;\">\n<p>Sparse matrix file for the combined early passage PDO samples of the original paper (Dolgos&nbsp;<em>et al.,</em> 2025). This data has undergone quality control to exclude low-quality cells.</p>\n</td>\n</tr>\n<tr style=\"height: 86.7871px;\">\n<td style=\"width: 44.1791%; height: 86.7871px;\">\n<p><strong>Dolgos_early_passage_PDOs_features.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 86.7871px;\">\n<p>Tab-separated file containing gene identifiers for the combined early passage PDO samples of the original paper (Dolgos <em>et al.,</em> 2025).</p>\n</td>\n</tr>\n<tr style=\"height: 86.7871px;\">\n<td style=\"width: 44.1791%; height: 86.7871px;\">\n<p><strong>Dolgos_early_passage_PDOs_barcodes.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 86.7871px;\">\n<p>Tab-separated file containing unique cell barcodes for the combined early passage PDO samples of the original paper (Dolgos&nbsp;<em>et al.,</em> 2025).</p>\n</td>\n</tr>\n<tr style=\"height: 125.986px;\">\n<td style=\"width: 44.1791%; height: 125.986px;\">\n<p><strong>Dolgos_early_passage_PDOs_metadata.csv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 125.986px;\">\n<p>Contains per-cell metadata for the combined early passage PDO samples. Includes UMAP coordinates, size factors used for log normalization, clustering annotations, cell cycle phase annotations, culture conditions, and various signature scores.</p>\n</td>\n</tr>\n<tr style=\"height: 106.387px;\">\n<td style=\"width: 44.1791%; height: 106.387px;\">\n<p><strong>Atlas_PCa_PDOs_matrix.mtx</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 106.387px;\">\n<p>Sparse matrix file for the combined PCa PDOs datasets (Dolgos_PDOs, Huang_PDOs, Song_PDOs, McCray_PDOs). This data has undergone quality control to exclude low-quality cells.</p>\n</td>\n</tr>\n<tr style=\"height: 86.7871px;\">\n<td style=\"width: 44.1791%; height: 86.7871px;\">\n<p><strong>Atlas_PCa_PDOs_features.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 86.7871px;\">\n<p>Tab-separated file containing gene identifiers for the combined PCa PDOs datasets (Dolgos_PDOs, Huang_PDOs, Song_PDOs, McCray_PDOs) .</p>\n</td>\n</tr>\n<tr style=\"height: 86.7871px;\">\n<td style=\"width: 44.1791%; height: 86.7871px;\">\n<p><strong>Atlas_PCa_PDOs_barcodes.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 86.7871px;\">\n<p>Tab-separated file containing unique cell barcodes for the combined PCa PDOs datasets (Dolgos_PDOs, Huang_PDOs, Song_PDOs, McCray_PDOs) .</p>\n</td>\n</tr>\n<tr style=\"height: 125.986px;\">\n<td style=\"width: 44.1791%; height: 125.986px;\">\n<p><strong>Atlas_PCa_PDOs_metadata.csv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 125.986px;\">\n<p>Contains per-cell metadata for the combined PCa PDOs datasets (Dolgos_PDOs, Huang_PDOs, Song_PDOs, McCray_PDOs). Includes UMAP coordinates, size factors used for log normalization, culture conditions and cell annotations.</p>\n</td>\n</tr>\n<tr style=\"height: 145.586px;\">\n<td style=\"width: 44.1791%; height: 145.586px;\"><strong>Dolgos_Matched_Tissue_PDOs_matrix.mtx</strong></td>\n<td style=\"width: 55.9056%; height: 145.586px;\">Sparse matrix file for the combined PCa tissues and PDOs datasets from the original paper (Dolgos <em>et al.,</em> 2025). This data has undergone quality control to exclude low-quality cells.</td>\n</tr>\n<tr style=\"height: 91.5723px;\">\n<td style=\"width: 44.1791%; height: 91.5723px;\"><strong>Dolgos_Matched_Tissue_PDOs_features.tsv</strong></td>\n<td style=\"width: 55.9056%; height: 91.5723px;\">Tab-separated file containing gene identifiers for the combined PCa tissues and PDOs datasets from the original paper (Dolgos <em>et al.,</em> 2025).</td>\n</tr>\n<tr style=\"height: 118.586px;\">\n<td style=\"width: 44.1791%; height: 118.586px;\"><strong>Dolgos_Matched_Tissue_PDOs_barcodes.tsv</strong></td>\n<td style=\"width: 55.9056%; height: 118.586px;\">Tab-separated file containing unique cell barcodes for the combined PCa tissues and PDOs datasets from the original paper (Dolgos <em>et al.,</em> 2025).</td>\n</tr>\n<tr style=\"height: 97.998px;\">\n<td style=\"width: 44.1791%; height: 97.998px;\"><strong>Dolgos_Matched_Tissue_PDOs_metadata.csv</strong></td>\n<td style=\"width: 55.9056%; height: 97.998px;\">Contains per-cell metadata for the combined PCa PDOs datasets (Dolgos_PDOs, Huang_PDOs, Song_PDOs, McCray_PDOs). Includes UMAP coordinates, size factors used for log normalization, infer cnv score and cell annotations.</td>\n</tr>\n<tr style=\"height: 145.586px;\">\n<td style=\"width: 44.1791%; height: 145.586px;\">\n<p><strong>Dataset_Material_matrix.mtx</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 145.586px;\">\n<p>Sparse matrix of single-cell gene expression data for a given dataset (Dataset = Song, Huang, McCray, Henry, or Tabula_Sapiens) and material (Material = PDOs or Tissue). Data are provided either as released by the authors (after quality control) or after reproducing the QC described in the original publications (see <em>Materials and Methods</em>).</p>\n</td>\n</tr>\n<tr style=\"height: 145.586px;\">\n<td style=\"width: 44.1791%; height: 145.586px;\">\n<p><strong>Dataset_Material_features.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 145.586px;\">\n<p>Tab-separated file listing gene identifiers for the PCa datasets (Dataset = Song, Huang, McCray, Hirz, Chen, Henry, or Tabula_Sapiens) and material (Material = PDOs or Tissue), either as provided by the authors (after quality control) or after reproducing the QC described in the original publications (see&nbsp;<em>Materials and Methods</em>).</p>\n</td>\n</tr>\n<tr style=\"height: 145.586px;\">\n<td style=\"width: 44.1791%; height: 145.586px;\">\n<p><strong>Dataset_Material_barcodes.tsv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 145.586px;\">\n<p>Tab-separated file listing cell barcodes for the PCa datasets (Dataset = Song, Huang, McCray, Hirz, Chen, Henry, or Tabula_Sapiens) and material (Material = PDOs or Tissue), either as provided by the authors (after quality control) or after reproducing the QC described in the original publications (see <em>Materials and Methods</em>).</p>\n</td>\n</tr>\n<tr style=\"height: 145.586px;\">\n<td style=\"width: 44.1791%; height: 145.586px;\">\n<p><strong>Dataset_Material_metadata.csv</strong></p>\n</td>\n<td style=\"width: 55.9056%; height: 145.586px;\">\n<p>Contains per-cell metadata for the combined for the PCa datasets (Dataset = Song, Huang, McCray, Hirz, Chen, Henry, or Tabula_Sapiens) and material (Material = PDOs or Tissue). Includes UMAP coordinates, size factors used for log normalization, cell annotations and original metadata (<em>i.e </em>cell type) when made accessible by the author.</p>\n</td>\n</tr>\n</tbody>\n</table>",
         "lang": {
           "id": "enc",
           "title": {
@@ -1349,7 +1825,7 @@
         }
       }
     ],
-    "publication_date": "2025-05-30",
+    "publication_date": "2025-08",
     "publisher": "Zenodo",
     "references": [
       {
@@ -1446,6 +1922,24 @@
           }
         },
         "scheme": "pmid"
+      },
+      {
+        "identifier": "36750562",
+        "relation_type": {
+          "id": "isderivedfrom",
+          "title": {
+            "de": "Wird abgeleitet von",
+            "en": "Is derived from"
+          }
+        },
+        "resource_type": {
+          "id": "publication",
+          "title": {
+            "de": "Publikation",
+            "en": "Publication"
+          }
+        },
+        "scheme": "pmid"
       }
     ],
     "resource_type": {
@@ -1497,7 +1991,14 @@
   "parent": {
     "access": {
       "grants": [],
-      "links": [],
+      "links": [
+        {
+          "id": "576739c3-d7d8-4000-a6e4-be26dc7d6fa4"
+        },
+        {
+          "id": "15d52e9d-aa61-43c0-8108-62484f850943"
+        }
+      ],
       "owned_by": {
         "user": "1204624"
       },
@@ -1521,36 +2022,36 @@
   "pids": {
     "doi": {
       "client": "datacite",
-      "identifier": "10.5281/zenodo.15554685",
+      "identifier": "10.5281/zenodo.16891262",
       "provider": "datacite"
     },
     "oai": {
-      "identifier": "oai:zenodo.org:15554685",
+      "identifier": "oai:zenodo.org:16891262",
       "provider": "oai"
     }
   },
-  "revision_id": 4,
+  "revision_id": 6,
   "stats": {
     "all_versions": {
-      "data_volume": 0.0,
-      "downloads": 0,
-      "unique_downloads": 0,
-      "unique_views": 0,
-      "views": 0
+      "data_volume": 41997753110.0,
+      "downloads": 234,
+      "unique_downloads": 223,
+      "unique_views": 43,
+      "views": 51
     },
     "this_version": {
-      "data_volume": 0.0,
-      "downloads": 0,
-      "unique_downloads": 0,
-      "unique_views": 0,
-      "views": 0
+      "data_volume": 76009941.0,
+      "downloads": 3,
+      "unique_downloads": 3,
+      "unique_views": 8,
+      "views": 8
     }
   },
   "status": "published",
   "swh": {},
-  "updated": "2025-05-30T14:18:30.843133+00:00",
+  "updated": "2025-09-30T08:07:16.323047+00:00",
   "versions": {
-    "index": 2,
+    "index": 4,
     "is_latest": true,
     "is_latest_draft": true
   }
